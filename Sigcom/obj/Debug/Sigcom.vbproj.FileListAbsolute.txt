@@ -1,0 +1,125 @@
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\bin\Debug\Sigcom.exe.config
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\bin\Debug\Sigcom.exe
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\bin\Debug\Sigcom.pdb
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\bin\Debug\Sigcom.xml
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.frmInicio.resources
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.Resources.resources
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.exe
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.xml
+C:\Users\nano\AppData\Local\Temporary Projects\Sigcom\obj\Debug\Sigcom.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\bin\Debug\Sigcom.exe.config
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\bin\Debug\Sigcom.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\bin\Debug\Sigcom.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\bin\Debug\Sigcom.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Resources.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Principal.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Acerca_de.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Registrar_Residente.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.RegistrarPagos.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Listado_Residentes.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Totales.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Atrasados.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Condominio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom\Sigcom\obj\Debug\Sigcom.Inicio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Acerca_de.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Atrasados.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Condominio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Inicio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Listado_Residentes.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Principal.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Resources.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Registrar_Residente.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.RegistrarPagos.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Totales.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\itextsharp.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\itextsharp.pdfa.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\itextsharp.xtra.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.vbprojResolveAssemblyReference.cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\Gastos Comunes.exe.config
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\Gastos Comunes.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\Gastos Comunes.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\bin\Debug\Gastos Comunes.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Gastos Comunes.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Gastos Comunes.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Gastos Comunes.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Sigcom - MySql\Sigcom\obj\Debug\Sigcom.Presentación.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\Ordenatucondominio\Sigcom\bin\Debug\ordenatucondominio.exe.config
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\ordenatucondominio.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\ordenatucondominio.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\ordenatucondominio.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\itextsharp.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\itextsharp.pdfa.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\itextsharp.xtra.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.vbprojResolveAssemblyReference.cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Acerca_de.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Atrasados.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Condominio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Inicio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Listado_Residentes.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Presentación.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Principal.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Resources.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Registrar_Residente.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.RegistrarPagos.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.Totales.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.exe.config
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.vbprojResolveAssemblyReference.cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Acerca_de.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Atrasados.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Condominio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Inicio.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Listado_Residentes.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Presentación.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Principal.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Registrar_Residente.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.RegistrarPagos.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Totales.resources
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.exe
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.pdb
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.xml
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\itextsharp.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\itextsharp.pdfa.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\itextsharp.xtra.dll
+C:\Users\nano\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Resources.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.exe.config
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.exe
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.xml
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.pdb
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.exe.config
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.exe
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.xml
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\ordenatucondominio.pdb
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.exe
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.pdb
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\bin\Debug\ordenatucondominio.xml
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.vbprojResolveAssemblyReference.cache
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Acerca_de.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Atrasados.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Condominio.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Inicio.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Listado_Residentes.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Presentación.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Principal.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Resources.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Registrar_Residente.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.RegistrarPagos.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.Totales.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio - new\Sigcom\obj\Debug\Sigcom.vbproj.GenerateResource.Cache
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\bin\Debug\ordenatucondominio.exe.config
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.exe
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.xml
+F:\Yo\Documents\Visual Studio 2013\Projects\ordenatucondominio\Sigcom\obj\Debug\ordenatucondominio.pdb
